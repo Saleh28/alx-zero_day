@@ -1,2 +1,2 @@
 My first readme.
-my alx practice
+making an up date in alx zero day
